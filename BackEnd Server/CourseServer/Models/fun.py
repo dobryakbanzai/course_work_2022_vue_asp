@@ -1,0 +1,2 @@
+﻿def gen()
+	return "aa"
